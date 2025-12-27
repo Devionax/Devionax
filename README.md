@@ -78,12 +78,14 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Devionax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devionax&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Devionax&show_icons=true&theme=react&hide_border=false&bg_color=DEE9FF&border_color=AEC6FF&title_color=1C1C1C&text_color=1C1C1C&icon_color=3B82F6&radius=20)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Devionax&theme=react&hide_border=false&stroke=E0E0E0&background=F1F5FE&radius=20)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=DEE9FF&border_color=AEC6FF&title_color=1C1C1C&text_color=1C1C1C&radius=20)
+
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devionax&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Devionax&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10)
 
 ---
 
@@ -94,7 +96,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devionax&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Devionax&limit=5&theme=tokyonight&border_color=FF00FF&title_color=00FFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0A0A0A)
 
 ---
 
