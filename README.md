@@ -1,96 +1,123 @@
-# 💫 About Me
-
-🚀 **PHP Development**<br>
-🐘 Strong hands-on experience in real-world backend development.<br>
-🧩 Applies Object-Oriented Programming (OOP) principles to build modular, maintainable code.<br>
-⚙️ Works confidently with frameworks like Laravel, Symfony, and CodeIgniter.<br>
-🔌 Builds RESTful APIs for smooth front-end and back-end communication.<br>
-🗄️ Handles database interactions using MySQL and other relational databases efficiently.<br>
-🔐 Implements security best practices to protect against SQL Injection, XSS, CSRF, and authentication flaws.<br>
-<br>
-
-🧠 **MERN Stack Development**<br>
-🌐 Full-stack JavaScript development using MongoDB, Express.js, React.js, and Node.js.<br>
-🛠️ Designs and develops scalable RESTful APIs.<br>
-📦 Manages MongoDB databases including schema design and indexing.<br>
-🎨 Creates dynamic, responsive, interactive UIs using React.js.<br>
-🔑 Implements secure authentication and authorization with JWT & role-based access control.<br>
-<br>
-
-🗃️ **SQL & MongoDB Database Management**<br>
-📐 Designs efficient and scalable schemas for SQL & NoSQL databases.<br>
-⚡ Optimizes queries for faster performance.<br>
-🔄 Understands joins, relationships, and normalization.<br>
-🧮 Uses MongoDB aggregation pipelines and indexing strategies.<br>
-🛡️ Performs backups, restores, and monitoring for databases.<br>
-<br>
-
-🎨 **UI / UX Design Awareness**<br>
-👤 Understands core UX principles for real user needs.<br>
-📝 Conducts user research to guide design decisions.<br>
-📐 Creates wireframes and prototypes.<br>
-🧪 Improves usability through testing and iteration.<br>
-♿ Designs accessible interfaces with inclusive design practices.<br>
-<br>
-
-🧩 **Project Capabilities**<br>
-🛒 E-commerce platforms with carts, payment gateways, and product catalogs.<br>
-📱 Social media and community apps with profiles and feeds.<br>
-📰 Custom CMS solutions.<br>
-🔗 Scalable APIs for web & mobile apps.<br>
-⚛️ Single-Page Applications (SPAs) with React & modern frameworks.<br>
-📊 Data-driven applications for large datasets.<br>
-<br>
-
-📌 **GitHub Profile Insights**<br>
-🧼 Clean, readable code structure.<br>
-📈 Consistent contributions demonstrating activity.<br>
-🧠 Projects showing problem-solving and architectural skills.<br>
-🤝 Collaboration via PRs, issues, and reviews.<br>
-✍️ Clear commit messages & professional documentation.<br>
-<br>
+# 🚀 **Muhammad Nuh**  
+### **Full-Stack Developer & UI/UX Enthusiast**  
+Crafting digital experiences with clean code and intuitive design. Passionate about building scalable solutions that bridge functionality with elegance.
 
 ---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CbJ7xAmepf) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammad.nuh.142502) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nuh-a75201349/) 
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Devionax173452) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Devionax) 
+## 🎯 **Core Expertise**
+
+### 🔹 **PHP Development**  
+- 🐘 **Enterprise Backend Systems** – Building robust, real-world applications with OOP principles  
+- 🏗️ **Framework Mastery** – Laravel | Symfony | CodeIgniter | Custom MVC architectures  
+- 🛡️ **Security-First Approach** – Implementing defense against SQLi, XSS, CSRF & auth vulnerabilities  
+- 🔌 **RESTful API Design** – Seamless frontend-backend communication with clean endpoints  
+- 🗄️ **Database Optimization** – Advanced MySQL query tuning & relational modeling  
+
+### 🔹 **MERN Stack Development**  
+- 🌐 **Full-Stack JavaScript** – End-to-end development with MongoDB, Express, React, Node.js  
+- ⚡ **High-Performance APIs** – Scalable REST/GraphQL APIs with optimized response times  
+- 🎨 **React Ecosystem** – React Hooks, Context API, Redux, Next.js, and modern UI libraries  
+- 🔐 **Advanced Auth Systems** – JWT, OAuth, role-based access control, and session management  
+
+### 🔹 **Database Architecture**  
+- 📊 **SQL & NoSQL Synergy** – Strategic use of MySQL & MongoDB based on data requirements  
+- ⚡ **Query Optimization** – Indexing strategies, aggregation pipelines, and performance tuning  
+- 🔄 **Data Migration & ETL** – Seamless database transitions and real-time data processing  
+
+### 🔹 **UI/UX Design Integration**  
+- ✨ **Design-Dev Handoff** – Translating Figma/Adobe XD designs into pixel-perfect interfaces  
+- 📱 **Responsive Philosophy** – Mobile-first approach with fluid breakpoints and touch optimization  
+- ♿ **Inclusive Design** – WCAG compliance, screen reader support, and accessible components  
+- 🧪 **User-Centric Testing** – A/B testing, usability studies, and data-driven refinements  
+
+---
+
+## 🛠️ **Technical Arsenal**
+
+### **Languages & Frameworks**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### **Databases & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **Design & Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+### **DevOps & APIs**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+### **Development Activity**
+![](https://github-readme-stats.vercel.app/api?username=Devionax&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
+
+### **Most Used Languages**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+### **Contribution Streak**
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devionax&theme=algolia&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6d00&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nuh-a75201349/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devionax)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Devionax173452)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammad.nuh.142502)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CbJ7xAmepf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devionax01@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+## 📊 **GitHub Trophies**
+![](https://github-profile-trophy.vercel.app/?username=Devionax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Devionax&show_icons=true&theme=react&hide_border=false&bg_color=DEE9FF&border_color=AEC6FF&title_color=1C1C1C&text_color=1C1C1C&icon_color=3B82F6&radius=20)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devionax&theme=react&hide_border=false&stroke=E0E0E0&background=F1F5FE&radius=20)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=DEE9FF&border_color=AEC6FF&title_color=1C1C1C&text_color=1C1C1C&radius=20)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devionax&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10)
+## ✍️ **Developer Philosophy**
+> *"Code is poetry when it balances elegance with efficiency. Every line should tell a story of problem-solving, every function should sing with purpose, and every system should dance with scalability."*
 
 ---
 
-### ✍️ Random Dev Quote
-💻 "Vibe with coding. 🧠 Build your logical thinking. 🔄 Explore multiple solutions. 🏋️ Remember — practice makes a man perfect."  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📫 **Let's Build Something Amazing**
+Ready to transform your ideas into reality? Whether it's a startup MVP, enterprise solution, or creative digital experience — let's create something extraordinary together.
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/📁_View_Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-00C853?style=for-the-badge&logo=upwork&logoColor=white)](#)
+[![Projects](https://img.shields.io/badge/🚀_View_Projects-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devionax?tab=repositories)
+
+</div>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devionax&limit=5&theme=tokyonight&border_color=FF00FF&title_color=00FFFF&icon_color=FFFF00&text_color=FFFFFF&bg_color=0A0A0A)
+<div align="center">
+  
+*"Turning complexity into simplicity, one commit at a time."*
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=Devionax&color=blueviolet&style=flat-square)
 
-[![](https://visitcount.itsvg.in/api?id=Devionax&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</div>
