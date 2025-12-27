@@ -106,7 +106,7 @@ Ready to transform your ideas into reality? Whether it's a startup MVP, enterpri
 
 <div align="center">
   
-[![Whatsapp](https://img.shields.io/badge/📁_WhatsApp-25D366?style=for-the-badge&logo=vercel&logoColor=white)](https://wa.me/9232935391449)
+[![Chat on WhatsApp](https://img.shields.io/badge/Chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923293539144)
 [![Projects](https://img.shields.io/badge/🚀_View_Projects-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devionax?tab=repositories)
 
 </div>
