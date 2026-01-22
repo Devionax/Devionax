@@ -1,4 +1,6 @@
-# 🚀 **Muhammad Nuh**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=300&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+NUH.;Computer+Science+Student;AI+Enthusiast;Frontend+Developer;Welcome+to+my+GitHub+Profile!" />
+</p>
 ### **Full-Stack Developer & UI/UX Enthusiast**  
 Crafting digital experiences with clean code and intuitive design. Passionate about building scalable solutions that bridge functionality with elegance.
 
