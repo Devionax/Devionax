@@ -259,6 +259,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devionax&theme=algolia&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6d00&currStreakLabel=58a6ff)
 
 </div> -->
+
+<p align="center">
+  <img src="icons/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 # 📈 **GitHub Analytics**
 
 <div align="center">
