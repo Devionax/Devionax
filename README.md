@@ -225,76 +225,8 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 
 ---
 
-## 📈 **GitHub Analytics**
 
-<!-- <div align="center">
 
-### **Development Activity**
-![](https://github-readme-stats.vercel.app/api?username=Devionax&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff)
-
-### **Most Used Languages**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
-
-### **Contribution Streak**
-![](https://github-readme-streak-stats.herokuapp.com/?user=Devionax&theme=algolia&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6d00&currStreakLabel=58a6ff)
-
-</div> -->
-
-<p align="center">
-  <img src="icons/space-shooter.gif" alt="GitHub Space Shooter" />
-</p>
-# 📈 **GitHub Analytics**
-
-<div align="center">
-
-### **🔥 Dynamic Development Activity**
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Devionax&theme=github-dark&bg_color=0d1117&color=58a6ff&line=38d252&point=ffffff&area=true&hide_border=true&custom_title=Coding%20Activity%20Timeline&radius=8&area_color=1a1f2c)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### **📊 Weekly Development Breakdown**
-```javascript
-const codingStats = {
-    "🔥 Active Days": "6-7 days/week",
-    "⏰ Peak Hours": "9 AM - 12 PM | 8 PM - 12 AM",
-    "📁 Avg Daily Commits": "4-6 commits",
-    "🚀 Project Velocity": "Consistent & Growing",
-    "🎯 Focus Areas": ["Backend APIs", "React Components", "Database Optimization"]
-};
-```
-
-### **⚡ Real-Time Coding Streak**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devionax&theme=dark&hide_border=true&background=0d1117&stroke=00D4FF&ring=00FF88&fire=FF6B00&currStreakLabel=00FFE0&sideLabels=00FFAA&dates=FFFFFF&sideNums=00FFFF" alt="Devionax's Streak" />
-</p>
-
-### **🚀 Detailed Stats Overview**
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Devionax&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff&include_all_commits=true" alt="Devionax's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devionax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&langs_count=8" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-### **🎯 Contribution Distribution**
-<table align="center">
-  <tr>
-    <td width="60%">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devionax&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&langs_count=6" alt="Weekly Language Breakdown" />
-    </td>
-    <td width="40%">
-      <div align="center">
-        <strong>Contribution Breakdown</strong><br><br>
-        <img src="https://progress-bar.dev/45/?title=Backend&color=00ff88&width=250" /><br>
-        <img src="https://progress-bar.dev/35/?title=Frontend&color=ff6b35&width=250" /><br>
-        <img src="https://progress-bar.dev/12/?title=Database&color=00d4ff&width=250" /><br>
-        <img src="https://progress-bar.dev/8/?title=DevOps&color=ffd700&width=250" />
-      </div>
-    </td>
-  </tr>
-</table>
 
 ### **📈 Performance Metrics**
 <div align="center">
@@ -308,15 +240,6 @@ const codingStats = {
 
 </div>
 
-### **📊 Contribution Calendar**
-<p align="center">
-  <img src="https://ghchart.rshah.org/Devionax" alt="Devionax's GitHub Chart" width="90%" />
-</p>
-
-### **🐍 Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Devionax/Devionax/output/github-contribution-grid-snake.svg" alt="Snake animation showing contributions" />
-</p>
 
 ### **🏆 Achievement Badges**
 <div align="center">
@@ -359,10 +282,6 @@ const codingStats = {
 
 ---
 
-## 📊 **GitHub Trophies**
-![](https://github-profile-trophy.vercel.app/?username=Devionax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## ✍️ **Developer Philosophy**
 > *"Code is poetry when it balances elegance with efficiency. Every line should tell a story of problem-solving, every function should sing with purpose, and every system should dance with scalability."*
