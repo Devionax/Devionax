@@ -73,6 +73,14 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
     <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
       <br>Ruby
@@ -126,10 +134,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
   </td>
 </tr>-->
 <tr> 
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Nodejs
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
@@ -181,10 +189,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
       <br>LangChain
     </td> -->
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
       <br>Hugging Face
-    </td>
+    </td> -->
     <!-- <td align="center" width="90">
       <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
       <br>ElizaOS
