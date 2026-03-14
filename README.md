@@ -49,14 +49,14 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
       <br>Rust
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
       <br>Solidity
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
       <br>Python
@@ -65,22 +65,22 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
       <br>C++
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>GoLang
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
       <br>Ruby
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
       <br>java
-    </td>
+    </td> -->
   </tr>
   <!-- network -->
 <!-- <tr>
@@ -142,10 +142,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
       <br>Django
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
@@ -177,18 +177,18 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
       <br>DeepSeek
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
       <br>LangChain
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
       <br>Hugging Face
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
       <br>ElizaOS
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
       <br>TensorFlow
