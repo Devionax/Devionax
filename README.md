@@ -124,8 +124,8 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
     <img src="./icons/sui.png" height="45" >
     <br>Sui
   </td>
-</tr>
-<tr> -->
+</tr>-->
+<tr> 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Nodejs
