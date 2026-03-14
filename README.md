@@ -83,7 +83,7 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
     </td>
   </tr>
   <!-- network -->
-<tr>
+<!-- <tr>
   <td align="center" width="90">
     <img src="./icons/solana.png" height="45" >
     <br>Solana
@@ -125,7 +125,7 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
     <br>Sui
   </td>
 </tr>
-<tr>
+<tr> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Nodejs
