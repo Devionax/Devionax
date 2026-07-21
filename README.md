@@ -263,18 +263,7 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 
 </div>
 
----
 
-### **🎮 Interactive Stats Dashboard**
-<div align="center">
-  
-[![Code Time](http://img.shields.io/badge/⏱️_Code_Time-2,500+_hours-00D4AA?style=for-the-badge&logo=codepen&logoColor=white)](https://wakatime.com/@Devionax)
-[![Lines of Code](https://img.shields.io/badge/📝_500,000+_LOC-FF6B6B?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Devionax)
-[![Projects](https://img.shields.io/badge/🚀_15+_Active_Projects-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devionax?tab=repositories)
-
-</div>
-
----
 
 **📌 Pro Tip:** *These stats update automatically! Refresh to see the latest coding activity and contribution metrics in real-time!* 🔄
 
