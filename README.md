@@ -173,10 +173,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td> -->
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
@@ -216,10 +216,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
       <br>PyTorch
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
       <br>Ollama
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br>FastAPI
