@@ -13,8 +13,7 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 ## 🎯 **Core Expertise**
 
 ### 🔹 **PHP Development**  
-- 🐘 **Enterprise Backend Systems** – Building robust, real-world applications with OOP principles  
-- 🏗️ **Framework Mastery** – Laravel | Symfony | CodeIgniter | Custom MVC architectures  
+- 🐘 **Enterprise Backend Systems** – Building robust, real-world applications with OOP principles   
 - 🛡️ **Security-First Approach** – Implementing defense against SQLi, XSS, CSRF & auth vulnerabilities  
 - 🔌 **RESTful API Design** – Seamless frontend-backend communication with clean endpoints  
 - 🗄️ **Database Optimization** – Advanced MySQL query tuning & relational modeling  
@@ -26,7 +25,6 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 - 🔐 **Advanced Auth Systems** – JWT, OAuth, role-based access control, and session management  
 
 ### 🔹 **Next.js Development**
-
 - 🚀 **Modern Full-Stack Framework** – Build fast, scalable applications with the Next.js App Router
 - ⚡ **Server-Side Rendering & SSG** – SSR, SSG, ISR, and dynamic rendering for optimal performance and SEO
 - 🎨 **Advanced UI Development** – React Server Components, Client Components, Tailwind CSS, and responsive design
