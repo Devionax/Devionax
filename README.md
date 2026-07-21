@@ -25,6 +25,17 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
 - 🎨 **React Ecosystem** – React Hooks, Context API, Redux, Next.js, and modern UI libraries  
 - 🔐 **Advanced Auth Systems** – JWT, OAuth, role-based access control, and session management  
 
+### 🔹 **Next.js Development**
+
+- 🚀 **Modern Full-Stack Framework** – Build fast, scalable applications with the Next.js App Router
+- ⚡ **Server-Side Rendering & SSG** – SSR, SSG, ISR, and dynamic rendering for optimal performance and SEO
+- 🎨 **Advanced UI Development** – React Server Components, Client Components, Tailwind CSS, and responsive design
+- 🔐 **Authentication & Security** – NextAuth/Auth.js, JWT, OAuth, middleware, and secure route protection
+- 📡 **API Routes & Server Actions** – Build backend logic with Route Handlers, Server Actions, and REST APIs
+- 💾 **Database Integration** – MongoDB, PostgreSQL, Prisma, Mongoose, and efficient data fetching
+- 📈 **Performance Optimization** – Image optimization, code splitting, caching, lazy loading, and Core Web Vitals
+- ☁️ **Deployment & Production** – Vercel deployment, environment variables, CI/CD, custom domains, and monitoring
+
 ### 🔹 **Database Architecture**  
 - 📊 **SQL & NoSQL Synergy** – Strategic use of MySQL & MongoDB based on data requirements  
 - ⚡ **Query Optimization** – Indexing strategies, aggregation pipelines, and performance tuning  
@@ -77,10 +88,10 @@ Crafting digital experiences with clean code and intuitive design. Passionate ab
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
       <br>Nodejs
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
-    </td>
+    </td> -->
     <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
       <br>Ruby
